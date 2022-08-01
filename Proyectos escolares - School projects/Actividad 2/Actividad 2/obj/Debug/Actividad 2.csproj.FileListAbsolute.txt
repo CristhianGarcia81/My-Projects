@@ -1,8 +1,0 @@
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csprojResolveAssemblyReference.cache
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\obj\Debug\Actividad_2.MainForm.resources
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.GenerateResource.Cache
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe.config
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\bin\Debug\Actividad 2.pdb
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\obj\Debug\Actividad 2.exe
-C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Actividad 2\Actividad 2\obj\Debug\Actividad 2.pdb
