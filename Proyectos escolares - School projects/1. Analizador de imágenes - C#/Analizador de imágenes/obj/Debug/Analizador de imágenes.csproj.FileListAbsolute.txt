@@ -1,0 +1,8 @@
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\bin\Debug\Analizador de imágenes.exe.config
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\bin\Debug\Analizador de imágenes.exe
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\bin\Debug\Analizador de imágenes.pdb
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\obj\Debug\Analizador_de_imágenes.MainForm.resources
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\obj\Debug\Analizador de imágenes.csproj.GenerateResource.Cache
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\obj\Debug\Analizador de imágenes.exe
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\obj\Debug\Analizador de imágenes.pdb
+C:\Users\crisg\Desktop\Programs\Cuarto\Seminario De Solucion De Problemas De Algoritmia\Analizador de imágenes\Analizador de imágenes\obj\Debug\Analizador de imágenes.csprojResolveAssemblyReference.cache
